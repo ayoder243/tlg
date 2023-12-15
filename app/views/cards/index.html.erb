@@ -1,0 +1,57 @@
+<h1>The Lost Glitches Cards</h1>
+
+<h3>Filters:</h3>
+<h4>Syndicates</h4>
+<ul>
+    <% @syndicates.each do |syndicate| %>
+        <li><%= link_to syndicate, root_path(syndicate: syndicate) %></li>
+    <% end %>
+</ul>
+
+<h4>Rarity</h4>
+<ul>
+    <% @raritys.each do |rarity| %>
+        <li><%= link_to rarity, root_path(rarity: rarity) %></li>
+    <% end %>
+</ul>
+
+<h4>Drops</h4>
+<ul>
+    <% @drops.each do |drop| %>
+        <li><%= link_to drop, root_path(drop: drop) %></li>
+    <% end %>
+</ul>
+
+<h4>Types</h4>
+<ul>
+    <% @types.each do |type_of_card| %>
+        <li><%= link_to type_of_card, root_path(type_of_card: type_of_card) %></li>
+    <% end %>
+</ul>
+
+<h4>Subtypes</h4>
+<ul>
+    <% @subtypes.each do |subtype| %>
+        <li><%= link_to subtype, root_path(subtype: subtype) %></li>
+    <% end %>
+</ul>
+
+<h4>Talents</h4>
+<ul>
+    <% @talents.each do |talent| %>
+        <li><%= link_to talent, root_path(talent: talent) %></li>
+    <% end %>
+</ul>
+
+<h4>Enery Cost</h4>
+<ul>
+    <% @energy_costs.each do |energy_cost| %>
+        <li><%= link_to energy_cost, root_path(energy_cost: energy_cost) %></li>
+    <% end %>
+</ul>
+
+<ul>
+    <% @cards.each do |card| %>
+        <li><%= card.name %></li>
+    <% end %>
+</ul>
