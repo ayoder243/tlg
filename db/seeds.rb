@@ -11,7 +11,7 @@ Card.delete_all
 
 require 'csv'
 
-CSV.foreach(Rails.root.join('/home/parallels/cards.csv'), headers: true) do |card|
+CSV.foreach(Rails.root.join('/home/parallels/odin/tlg/db/tlg-cards.csv'), headers: true) do |card|
     Card.create( {
         name: card["name"],
         bc_id: card["bc_id"],

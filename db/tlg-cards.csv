@@ -1,0 +1,212 @@
+name,bc_id,rarity,syndicate,drop,alt_name,type_of_card,subtype,talents,Ability,energy_cost
+Aristocat,00000120,Common,Sentinels of Eternity,5,,Glitch,Aristocrat,Extraction,,1
+Big Bad,00000387,Epic,Curators Maxima,2,Eagre Spirit,Glitch,Creature,Bit Thirsty,Sacrifice 2 allies in order to play Big Bad,1
+Binary Blast,00000018,Common,,3,,Software,Plug 'n' Play,,"Deal 2 damage to target Glitch X times, where X is the amount of other Software you have activated this turn",1
+Blindsided,00000642,Common,,3,,Software,Plug 'n' Play,,Deal 3 damage to a staggered enemy,1
+Bodyshield,00000598,Rare,,3,,Software,Plug 'n' Play,,Sacrifice an ally in order to stop Software with a cost of 4 or lower,1
+Bumbling Boomerang,00001560,Common,,3,,Software,Plug 'n' Play,,Deal 2 damage to target ally and 3 damage to target enemy,1
+Cracked Cricket,00000056,Common,Curators Maxima,3,,Glitch,Creature,,"Whenever you initialize a Glitch, give Cracked Cricket Surge until end of turn",1
+Delicious Infusion,00000592,Common,,4,,Software,Installation Required,,Take 3 damage: Give target Glitch +2/+0,1
+Devout Mesmerist,00001507,Common,Guardians of the Source,4,,Glitch,Purifier,,"Whenever you recruit a Glitch, give Devout Mesmerist  +2/+2",1
+Elixir of Aggression,00000395,Common,,2,,Software,Plug 'n' Play,,All allies with Protector are able to attack until end of turn,1
+Encrypt,00000050,Common,,1,,Software,Plug 'n' Play,,Give target Glitch Indestructable until end of turn,1
+Essence Witch,00000615,Common,Song of the Chain,2,,Glitch,Chaos Agent,,"Whenever your opponent discards a card, give this +1/+1",1
+Fatal Flash,00000036,Uncommon,Sentinels of Eternity,1,Bushido Bolt,Glitch,Samurai,Surge,"When Fatal Flash is initialized, you may sacrifice an ally and give Fatal Flash +X/+0, where X is their power. If you do that Fatal Flash dies at the end of turn",1
+Firmware Update,00000064,Common,,2,,Software,Plug 'n' Play,,Give target Glitch Overflow until end of turn,1
+Florescent Cube,00000144,Common,Guardians of the Source,5,,Glitch,Celestial,,"When Florescent Cube dies, your opponent loses 1 energy",1
+Gentle Giant,00000061,Common,Adamant Hands,3,,Glitch,Mecha,"Regenerate,Protector",,1
+Hoarder,00001549,Uncommon,Sentinels of Eternity,2,Jewelry Thief,Glitch,Aristocrat,,2 energy: Give target ally target talent Hoarder has,1
+Legion Desciple,0000003,Uncommon,Sentinels of Eternity,1,,Glitch,Legion,,"When an enemy is staggered, give Legion Desciple +1/+1",1
+Legion Novice,00000024,Common,Sentinels of Eternity,1,Samurai Novice,Glitch,Legion,Surge,,1
+Little Grim,00000569,Common,Song of the Chain,1,The Collector,Glitch,Fabled,"Predictive Strike,Aggressor",,1
+Magus Charm,00000016,Common,,5,,Software,Plug 'n' Play,,"Heal all allies for X, where X is the amount of other Software you have activated this turn",1
+Magus Greed,00000017,Common,,3,,Software,Plug 'n' Play,,"Draw X cards, where X is the number of other Software you have activated this turn",1
+Magus Strike,00000568,Uncommon,,2,,Software,Plug 'n' Play,,"Deal X damage to target, where X is the amount of other Software you have activated this turn",1
+Mechsmith,00000368,Rare,Adamant Hands,1,,Glitch,Punk,Predictive Strike,Mechsmith’s power is increased by 1 for every ally with Protector,1
+Memory Juggler,00000068,Common,Guardians of the Source,5,,Glitch,Celestial,,When Memory Juggler dies gain 1 energy,1
+Pretty Stars,00001562,Common,,2,,Software,Plug 'n' Play,,Deal 2 damage to target Glitch,1
+Propeller Pals,00000014,Common,Adamant Hands,3,,Glitch,Mecha,"Surge,Protector",,1
+Reaper's Bounty,00000372,Uncommon,,3,,Software,Installation Required,,Sacrifice an ally. Then draw 2 cards,1
+Royal Jester,00000105,Common,Sentinels of Eternity,5,,Glitch,Aristocrat,,"When Royal Jester attacks, remove 1 talent from target enemy until end of turn",1
+Sacrificial Glare,00000041,Uncommon,,1,,Software,Plug 'n' Play,,Give target ally +2/+0. Sacrifice that ally at the end of turn,1
+Sacrificial Sabre,00000567,Uncommon,,3,,Software,Plug 'n' Play,,"Sacrifice an Ally, then draw a card",1
+Sageblade,00000001,Rare,Sentinels of Eternity,1,Dishonored Bladeswinger,Glitch,Samurai,,"Whenever Sageblade attacks, give +X/+0 to the strongest ally until end of turn, where X is Sageblade’s power",1
+Salute,00000052,Common,,1,,Software,Plug 'n' Play,,Restore target Glitch's health,1
+Seafoam Oracle,00000377,Common,Curators Maxima,3,,Glitch,Shaman,,"When Seafoam Oracle dies, draw a card",1
+Senseless Structure,00000119,Uncommon,Guardians of the Source,5,,Glitch,Celestial,,2 energy: Your opponent loses 1 energy,1
+Shadow Shuriken,00000033,Common,Sentinels of Eternity,2,,Glitch,Samurai,,Sacrifice Shadow Shuriken at the end of the turn,1
+Shadowfall Assassin,00000032,Common,Sentinels of Eternity,1,,Glitch,Samurai,,"When Shadowfall Assassin dies, deal 2 damage to your opponent",1
+Shadowmorph,00000595,Uncommon,Song of the Chain,3,,Glitch,Magus,,"Once per turn, whenever you activate Software, Shadowmorph get’s +2/+0 and receives Predictive Strike until end of turn",1
+Survivialist,00001495,Rare,Curators Maxima,4,,Glitch,Shaman,,1 energy: Sacrifice target ally. Give Survivalist +1/+1,1
+Techno-Tyrant's Bow,00000351,Common,,3,,Software,Installation Required,,Give target ally +4/-3 until end of turn,1
+The Void Artisan,00000577,Rare,Song of the Chain,1,,Glitch,Magus,,"Whenever you activate a Software, you may pay 1 energy to initialise a 1/1 Token",1
+Thunderous Tribute,00000009,Uncommon,,4,,Software,Installation Required,,Stagger target ally. Stagger target enemy,1
+Transmuting Scepter,00000360,Uncommon,,3,,Software,Plug 'n' Play,,Sacrifice an ally and give their power to another target Glitch,1
+Vaccinator,00000608,Uncommon,,2,,Software,Plug 'n' Play,,Target Glitch gains Antivirus until end of turn,1
+Warning Shot,00000176,Uncommon,,5,,Software,Installation Required,,"Deal 1 damage to an enemy. If this doesn't kill them, gain 2 health",1
+Backdoor Schemer,00000362,Common,Sentinels of Eternity,1,Backdoor Femme,Glitch,Legion,Aggressor,"Whenever an enemy is staggered, give Backdoor Schemer Surge until end of turn",2
+Bandit's Plunder,00000039,Uncommon,,4,,Software,Installation Required,,Draw 2 cards,2
+Bewitched,00000576,Uncommon,,3,,Software,Installation Required,,Give target Glitch Protector,2
+Binary Swan,00000027,Uncommon,Curators Maxima,4,,Glitch,Creature,,"When Binary Swan gets initialized, initialize a 1/2 Token. When that Token dies, kill Binary Swan. When Binary Swan dies, kill that token",2
+Bone Diviner,00001531,Rare,Guardians of the Source,4,,Glitch,Seer,,1 energy: Look at the top card of your deck. Put it back on top or on the bottom of your deck,2
+Bot Jockey,00000582,Rare,Adamant Hands,1,Machine Learner,Glitch,Punk,"Protector,Regenerate","When Bot Jockey strikes an enemy, give a random ally +1/+0",2
+Code Sift,00000073,Common,,4,,Software,Plug 'n' Play,,Search your deck for another Software Card with cost 2 or less and put it into your hand,2
+Codegeist Collector,00000622,Rare,Song of the Chain,3,,Glitch,Magus,,"When Codegeist Collector has witnessed Software being activated by you, they transform into Codegeist Extractor",2
+Crimson Siren,00000571,Uncommon,Song of the Chain,2,Violent Thrist,Glitch,Fabled,,3 life: Your opponent chooses one of their allies. Deinitialise that Glitch,2
+Ctrl-Z,00000579,Common,,5,,Software,Installation Required,,Deinitialise target Glitch,2
+Daring Prophet,00001510,Rare,Guardians of the Source,5,,Glitch,Seer,,"When Daring Prophet dies, draw the bottom card of your deck",2
+Death's Harvest,00000601,Common,,3,,Software,Plug 'n' Play,,Your opponent sacrifices a Glitch from the battleground. Then they draw a card,2
+Deepwater Siren,00000618,Rare,Song of the Chain,5,,Glitch,Fabled,,"Whenever a Glitch is deinitialised, give Deepwater Siren +2/+1",2
+Disruptor Droid,00000008,Uncommon,Sentinels of Eternity,3,,Glitch,Legion,,Sacrifice: Stagger target enemy,2
+Divination,00000600,Common,,5,,Software,Plug 'n' Play,,You and your opponent draw 2 and discard 1,2
+Echoing Harpee,00000076,Epic,Song of the Chain,4,,Glitch,Fabled,,4 energy: Deinitialise target Glitch. This costs 1 less energy for every enemy initialised this turn. This can only be activated once per turn,2
+Ent Encarnate,00000386,Uncommon,Curators Maxima,3,,Glitch,Elemental,,"When Ent Encarnate is initialized, give Ent Incarnate +1/+0 for every ally with 2 or less power",2
+Fallen Angel,00000619,Uncommon,Song of the Chain,2,,Glitch,Fabled,,"Whenever you deinitialise an enemy, you may pay their cost to recruit it",2
+Fire Crackers,00000165,Uncommon,,5,,Software,Installation Required,,Deal 2 damage to your opponent,2
+Fleetfoot Gambit,00001529,Common,Guardians of the Source,4,,Glitch,Seer,,2 energy: Deal 1 damage to Fleetfoot Gambit. Draw a card,2
+Formshift Drainer,00000596,Common,Song of the Chain,2,Shapeshifter Harvester,Glitch,Magus,,"Once per turn, whenever you activate Software, give Formshift Drainer +2/+0 and Extraction until end of turn",2
+Gloomclaw,00001537,Common,Curators Maxima,4,,Glitch,Creature,"Extraction,Surge",,2
+Haunted Hatchet,00000053,Uncommon,,2,,Software,Plug 'n' Play,,Give target ally Extraction until end of turn,2
+Holy Invertor,00000013,Uncommon,Guardians of the Source,4,,Glitch,Purifier,,2 energy: Your opponent chooses one of their allies. Recruit that Glitch. Holy invertor changes allegience,2
+Honour Strike,00000355,Common,,1,Strike with Honor,Software,Installation Required,,Give target Glitch +3/+0 until end of turn,2
+Judgement,00000631,Uncommon,,1,,Software,Installation Required,,Deal 1 damage to all Glitches,2
+Kitsune Shapeshifter,00000026,Common,Song of the Chain,1,Kitsune Warrior,Glitch,Fabled,,"Whenever an enemy is deinitialised, you may pay their cost to transform Kitsune Shapeshifter into a copy of that Glitch with all their talents but without any of their abilities",2
+Leafmane Sentinel,00000375,Common,Curators Maxima,4,,Glitch,Shaman,,"When Leafmane Sentinel has witnessed 5 allies die, Leafmane Sentinel transforms into Leafmane Crowstorm",2
+Mematics,00000365,Common,,2,,Software,Plug 'n' Play,,Draw a card,2
+Mind Cleanser,00001499,Rare,Guardians of the Source,4,,Glitch,Purifier,Protector,"Whenever you recruit, heal Mind Cleanser",2
+Minotaur,00000159,Uncommon,Curators Maxima,1,,Glitch,Creature,,"Whenever you initialize a Glitch, give Minotaur +1/+0 until end of turn",2
+Pacifist's Pact,00000162,Uncommon,,5,,Software,Plug 'n' Play,,Give all Glitches -1/-0 until end of turn,2
+Panel Beater,00000107,Uncommon,Adamant Hands,5,,Glitch,Scavenger,,"2 energy: Once per turn, give an ally -3/-0 give another ally +3/0 until end of turn",2
+Patient Preist,00001524,Rare,Guardians of the Source,5,,Glitch,Seer,,1 energy: Put the most bottom card of your deck on top,2
+Pumpkin Ghoul,00000611,Rare,Song of the Chain,2,Spooky Henchman,Glitch,Fabled,,"When Pumpkin Ghoul is initialised, your opponent may pay 1 energy to deinitialise Pumpkin Ghoul",2
+Radical,00000350,Common,Adamant Hands,1,,Glitch,Punk,Extraction,,2
+Rageful Player,00000363,Common,Sentinels of Eternity,1,,Glitch,Legion,Surge,"Whenever an enemy is staggered, give Rageful Player +1/+0",2
+Regen Bot,00000051,Common,,1,,Software,Installation Required,,Give target ally Regenerate until end of turn,2
+Regrowth,00000380,Common,,3,,Software,Installation Required,,Initialise 2 Shroom Tokens,2
+Sage,00000578,Rare,Song of the Chain,2,,Glitch,Magus,,"Whenever you activate Software, give Sage +1/+1",2
+Sassy Mouse,00000378,Uncommon,Curators Maxima,1,,Glitch,Creature,Contagious,,2
+Scouter,00001515,Common,Guardians of the Source,5,,Glitch,Seer,,"When Scouter is initialized, draw a random card that costs 3 energy from your deck",2
+Scrappy's Jet Pack,00000007,Uncommon,,5,,Software,Plug 'n' Play,,Give target ally +1/+0 and Encrypted until end of turn,2
+Second Wind,00000171,Rare,,5,,Software,Installation Required,,Gain 3 life. If your life is 3 or less gain 6 instead,2
+Skull and Snout,00000376,Rare,Curators Maxima,3,,Glitch,Shaman,Protector,"Whenever an ally dies, give Skull and Snout +2/+0 and remove Protector until end of turn",2
+Sky Guardian,00000043,Uncommon,Guardians of the Source,1,,Glitch,Purifier,"Agressor,Surge,Predictive Strike",,2
+Soulcatcher,00001553,Uncommon,Sentinels of Eternity,2,Talent Angler,Glitch,Samurai,,"On initialise, draw a random 1 cost Glitch, if you have no 1 cost Glitches, this does nothing",2
+Spirit Sheperd,00000385,Epic,Curators Maxima,1,,Glitch,Shaman,,"Whenever an ally dies, give Spirit Shepard +1/+1",2
+Stoppage,00000353,Uncommon,,2,Ricochet,Software,Plug 'n' Play,,Stop opponent's Software that costs 2 or less,2
+Strongarm,00000038,Common,,2,,Software,Plug 'n' Play,,Give target ally +1/+0 and Overflow until end of turn,2
+Surprise Scope,00000589,Common,,2,,Software,Plug 'n' Play,,Give target Glitch Predictive Strike until end of turn,2
+The Sadist,00000155,Legendary,Adamant Hands,3,,Glitch,Punk,Regenerate,"1 energy: Deal 2 damage to target ally and give The Sadist +2/+0 until end of turn. When the ally dies this way, the power increase is permanent",2
+The Soul Reader,00000590,Rare,Song of the Chain,1,Timewarper,Glitch,Magus,,3 energy: Take all Software you played this turn and shuffle it back into your deck,2
+Tranquil Seeker,00000082,Uncommon,Guardians of the Source,4,,Glitch,Seer,,"When Tranquil Seeker has witnessed you drawing 5 cards, Tranquil Seeker transforms into Eternity Sage",2
+Truth Seeker,00000139,Common,Guardians of the Source,5,,Glitch,Seer,,"Whenever you look at a card in your deck, give this +1/+0",2
+Unpredictabot,00000633,Rare,Adamant Hands,3,,Glitch,Mecha,Overflow,"When Unpredictabot is initialized, deal 2 damage to all other allies",2
+Valiant Steelmaiden,00000586,Common,Sentinels of Eternity,1,Copykitten,Glitch,Samurai,,"Sacrifice: Give target ally +X/+0, where X is Valiant Steelmaiden’s power",2
+Viper Virus,00000002,Common,Sentinels of Eternity,2,,Glitch,Legion,,"When Viper Virus is initialized, stagger target enemy",2
+Warbloom Summoner,00001513,Rare,Guardians of the Source,4,,Glitch,Purifier,,"2 energy: Recruit target enemy with X or less power until end of turn, where X is Warbloom Summoner’s power",2
+Wind Down,00000593,Common,,3,,Software,Plug 'n' Play,,Deal 3 damage to target ally and gain 3 life,2
+Witty Assassin,00000570,Uncommon,Sentinels of Eternity,1,Samurai Veteran,Glitch,Samurai,,"When Witty Assassin dies, deal their power as damage to target Glitch",2
+Zap,00000040,Common,,1,,Software,Plug 'n' Play,,Stagger target Glitch,2
+Abomination,00000591,Epic,Song of the Chain,1,,Glitch,Chaos Agent,"Troll,Contagious,Surge",,3
+Back Alley,00001559,Common,,4,,Software,Installation Required,,Search your deck for a Glitch with cost 3 or less,3
+Bladedancer,00000000,Rare,Sentinels of Eternity,1,,Glitch,Samurai,Predictive Strike,"Whenever Bladedance attacks, initialize a copy of Bladedancer. It is also attacking and dies at end of turn",3
+Bone Dagger,00000357,Uncommon,,2,Hidden Dagger,Software,Plug 'n' Play,,"Deal X damage to an target, where X is the amount of allies that have died this turn",3
+Chaos Astronaut,00000022,Uncommon,Song of the Chain,4,,Glitch,Chaos Agent,Surge,"Whenever you discard a card, restore Chaos Astronaut’s health",3
+Circle of Life,00000081,Rare,,4,,Software,Plug 'n' Play,,Sacrifice all allies. You gain 2 life for each sacrificed Glitch,3
+Clubber,00000015,Uncommon,Adamant Hands,3,,Glitch,Scavenger,Predictive Strike,"When Clubber is initialized, give the strongest enemy -3/-0 and the weakest enemy +1/+0",3
+Colour Augementor,00000627,Uncommon,Adamant Hands,2,Bricks and Mortar,Glitch,Punk,Protector,"Whenever an ally is damaged, give them +1/+0",3
+Contagion Cannon,00000398,Common,,4,,Software,Plug 'n' Play,,Give target ally Contagious until end of turn,3
+Cosmic Changeling,00000010,Epic,Guardians of the Source,4,,Glitch,Purifier,,"When an enemy damages Cosmic Changeling, recruit that Glitch",3
+Creative Rebel,00001498,Rare,Adamant Hands,2,,Glitch,Punk,"Regenerate,Troll","When Creative Rebel is struck, give Creative Rebel +X/+0, where X is the striking Glitches power",3
+Data Sucker,00000063,Uncommon,Adamant Hands,1,,Glitch,Punk,,"Whenever an ally receives damage, give Data Sucker +1/+0",3
+Datastream Oasis,00000045,Uncommon,,4,,Software,Plug 'n' Play,,Fully heal all allies,3
+Dual Mines,00000607,Uncommon,,1,,Software,Installation Required,,Your opponent my discard the highest cost card from their hand. If they don't they deinitialise one of their allies,3
+Duelist Rascal,00000364,Uncommon,Sentinels of Eternity,2,Samurai Student,Glitch,Samurai,Troll,,3
+Energy Swap,00000381,Uncommon,,2,,Software,Plug 'n' Play,,Deal 3 damage to an ally and 4 damage to another target,3
+Energy Void,00000142,Common,Guardians of the Source,5,,Glitch,Celestial,Surge,"When Energy Void strikes the opponent directly, they lose 1 energy",3
+Face Stealer,00000585,Rare,Song of the Chain,2,,Glitch,Chaos Agent,,"Whenever a Glitch is discarded, you may pay 2 energy. If you do, Face Stealer receives that Glitch’s talents",3
+Firewall Tank,00000042,Uncommon,Adamant Hands,1,,Glitch,Punk,Regenerate,"Whenever Firewall Tank heals, give Firewall Tank +2/+0",3
+Fortify Hammer,00000054,Common,,1,,Software,Installation Required,,Give target Glitch +0/+3 or +3/+0,3
+Magus Harvester,00000623,Uncommon,Song of the Chain,2,,Glitch,Magus,,"When Magus Harvester is initialised, set their power to the amount of Software you have activated this battle",3
+Magus' Apprentice,00000573,Rare,Song of the Chain,5,,Glitch,Magus,,"When Magus’ Apprentice strikes a commander directly, draw a random Software card from your deck",3
+Makeshift Grenade,00000566,Common,,4,,Software,Installation Required,,Deal 5 damage to target Glitch,3
+Memory Extraction,00000588,Rare,,4,,Software,Plug 'n' Play,,"Sacrifice target ally. For every talent they had, deal 2 damage to the opponent",3
+Memory Meteor,00000116,Uncommon,Guardians of the Source,5,,Glitch,Celestial,,"On initialise, set power of Memory Meteor to your current energy",3
+Mindless Fury,00000392,Rare,,2,,Software,Installation Required,,Give target ally +2/+0 and Rage,3
+Outskirt Traveler,00000029,Epic,Adamant Hands,5,,Glitch,Scavenger,,"While Outskirt Traveler is on the battlefield, all enemies have -1/-0",3
+Pestilence Prophet,00000006,Epic,Song of the Chain,3,,Glitch,Magus,,"Whenever you activate a Software, you may pay 1 energy to initialise an Undead Token",3
+Pickpocket Master,00001549,Common,Sentinels of Eternity,2,,Glitch,Legion,,2 energy: Steal target talent from target staggered Glitch,3
+Punk Rufian,00000044,Rare,Adamant Hands,1,,Glitch,Punk,Bit Thirsty,,3
+Reap and Sow,00001556,Epic,,5,,Software,Installation Required,,Your opponent discards the cheapest card in their hand. They lose life equal to that card's cost,3
+Rebellion Architect,00000047,Epic,Adamant Hands,3,,Glitch,Punk,"Regenerate,Troll","When Rebellion Architect has healed 6 health, they transform into Rebelbot",3
+Reckless Renegade,00000610,Rare,Adamant Hands,3,,Glitch,Punk,Regenerate,"Whenever Reckless Renegade attacks, deal 3 damage to the defending Glitch or Player and 4 damage to Reckless Renegade at the end of combat",3
+Rise of the Undead,00000071,Rare,,3,,Software,Plug 'n' Play,,Initialise an Undead Token,3
+Robot Thing,00000575,Uncommon,,1,,Software,Installation Required,,Target Glitch becomes 3/3 until end of turn,3
+Ruthless Ruler,00000124,Common,Sentinels of Eternity,5,,Glitch,Aristocrat,,"When Ruthless Ruler strikes a Glitch, that Glitch loses all Talents",3
+Sacriscythe,00000565,Uncommon,,2,,Software,Plug 'n' Play,,All commanders sacrifice an ally,3
+Scrapyard Keeper,00000150,Rare,Adamant Hands,5,,Glitch,Scavenger,,"When Scrapyard Keeper’s power reaches 0, the transform into Scrapyard Defender",3
+Shaman Harvestor,00000295,Uncommon,Curators Maxima,1,,Glitch,Shaman,,"Whenever an ally dies, gain 1 life",3
+Sharpshooter,00000080,Epic,Sentinels of Eternity,4,,Glitch,Legion,,"Whenever an enemy is staggered, Sharpshooter strikes that enemy",3
+Shroom Hatchery,00001536,Common,Curators Maxima,3,,Glitch,Creature,,"When Shroom Hatchery dies, initialise 2 Shroom Tokens",3
+Sleeper Cell,00000629,Rare,Adamant Hands,3,,Glitch,Mecha,,"When Sleeper Cell has witnessed allies receiving 6 damage collectively, Sleeper Cell transforms into Awakened Sleeper Cell",3
+Snowfall Giant,00000149,Uncommon,Curators Maxima,5,,Glitch,Elemental,,"When you have 5 allies, Snowfall Giant transforms into Avalanche Titan",3
+Source Archer,00000583,Epic,Song of the Chain,2,,Glitch,Fabled,,"When Source Archer is initialised, you may pay 1 energy to deinitialise target enemy. You can repeat this any number of times. It costs 1 more for each repetition",3
+Succubus,00000614,Epic,Song of the Chain,5,,Glitch,Fabled,Troll,"If Succubus strikes another Glitch, deinitialise that Glitch",3
+Taxman,00000617,Common,Song of the Chain,5,,Glitch,Chaos Agent,,"Whenever the opponent initialises a Glitch, they receive 1 damage",3
+The Blood Weaver,00000157,Legendary,Song of the Chain,1,The Acupuncturist,Glitch,Magus,,Discard a Software card in order to play The Blood Weaver. 3 energy: Activate the discarded Software,3
+The Lionheart,00000160,Legendary,Sentinels of Eternity,2,The Stunner,Glitch,Samurai,Surge,"When The Lionheart is initialized, you may pay 2 energy to initialize a Ronin. You can repeat this any number of times",3
+The Pirate Queen,00000069,Legendary,Adamant Hands,5,,Glitch,Scavenger,Regenerate,"Whenever The Pirate Queen strikes a Glitch, give that Glitch -X/-0, where X is The Pirate Queen’s power",3
+The System Crasher,00000077,Legendary,Sentinels of Eternity,4,,Glitch,Legion,,"Whe The System Crasher is initialized, you may pay 1 energy to stagger target enemy. If that target is already staggered, they become 1/1 without talents. You can repeat this any number of times",3
+Too Slow,00000391,Common,,4,,Software,Plug 'n' Play,,Stop a Software if it has Installation Required,3
+Toy Alchemist,00000373,Uncommon,Song of the Chain,1,,Glitch,Magus,,"Whenever you activate a Software, give Toy Alchemist +X/+0 until end of turn, where X is that Software’s cost",3
+Vampyr,00000562,Common,Song of the Chain,2,,Glitch,Fabled,Extraction,,3
+Vengence Witch,00000612,Uncommon,Song of the Chain,2,,Glitch,Chaos Agent,,"When Vengeance Witch is initialised, give this -1/-0 for every card in your opponent’s hand",3
+Violent Intimidation,00000072,Uncommon,,5,,Software,Installation Required,,"Sacrifice target ally in order to play Violent Intimidation. Recruit target enemy with power X of less, where X is the sacrificed ally's power",3
+Void Swap,00000594,Rare,,2,,Software,Plug 'n' Play,,Deinitialise 2 allies. Then Deinitialise 2 enemies,3
+Witchdoctor,00000379,Rare,Curators Maxima,1,,Glitch,Shaman,,Sacrifice an ally in order to play Witchdoctor,3
+Ant Queen,00000023,Common,Curators Maxima,3,,Glitch,Creature,Protector,"When Ant Queen is initialized, initialize 1 Aggressive Ant token for every enemy",4
+Bushido Master,00000035,Rare,Sentinels of Eternity,1,,Glitch,Samurai,,"Whenever Bushido Master attacks, you may pay energy equal to the number of attacking allies to deal 1 damage to the opponent for every attacking ally",4
+Capy Engineer,00000358,Uncommon,Adamant Hands,1,,Glitch,Mecha,Regenerate,"Whenever an ally heals, give this +2/+0. If Capy Engineer has more than 8 power, kill Capy Engineer",4
+Careless Dominator,00001532,Epic,Guardians of the Source,4,,Glitch,Purifier,,"2 energy: sacrifice target ally. Recruit target enemy until end of turn with cost X or less, where X is the sacrificed ally’s cost",4
+Deathbound Guardian,00000004,Epic,Sentinels of Eternity,1,Bushido High Practitioner,Glitch,Samurai,,"Whenever an ally dies, deal 1 damage both yourself and your opponent",4
+Defensive Assault,00000062,Rare,,1,,Software,Installation Required,,Give all allies +3/+0 until end of turn. Affected Glitches lose Protector until end of turn,4
+Electromagnetic Molotov,00000055,Common,,1,,Software,Plug 'n' Play,,Deal 3 damage to all Glitches,4
+Erazer,00001558,Common,,4,,Software,Plug 'n' Play,,Remove all talents from target Glitch,4
+Father Forest,00000384,Rare,Curators Maxima,1,Colony Avenger,Glitch,Creature,Predictive Strike,"Whenever Father Forest attacks, initialism 1 Shroom Token",4
+Gecko Boy,00000139,Uncommon,Adamant Hands,5,,Glitch,Punk,,"As long as Gecko Boy is the only ally without Protector, their power and health increase by 4",4
+Hive Mind,00000388,Rare,Curators Maxima,4,,Glitch,Creature,,"When Hive Mind gets initialized, initialize 2 1/1 Swarm Tokens with Surge. Whenever one of those tokens dies, deal 2 damage to Hive Mind",4
+It Follows,00000572,Rare,Song of the Chain,3,,Glitch,Chaos Agent,Regenerate,"Whenever an opponent initialises a Glitch, give It Follows +1/+0",4
+Jump Ship,00000564,Uncommon,,4,,Software,Installation Required,,"At the start of your next turn, target Glitch changes allegiance",4
+Memory is Power,00000163,Rare,,5,,Software,Installation Required,,"Deal X damage to any target, where X is your current energy",4
+Mind Tricks,00000011,Common,,4,,Software,Plug 'n' Play,,Recruit target enemy until end of turn,4
+Negate,00000019,Common,,5,,Software,Plug 'n' Play,,Stop a Software,4
+Peaceful Undertaker,00001539,Rare,Curators Maxima,4,,Glitch,Shaman,,3 energy: All commanders sacrifice one Ally,4
+Petalborn Guardian,00001532,Rare,Curators Maxima,4,,Glitch,Shaman,,"Whenever an enemy kills an ally, Petalborn Guardian strikes that enemy",4
+Rusty Sheild,00000354,Common,,1,,Software,Installation Required,,Give target Glitch +0/+3,4
+Selector,00000563,Rare,Song of the Chain,2,,Glitch,Chaos Agent,,"When Selector strikes a commander directly, that commander may pay 1 energy. If they don’t, they discard a card",4
+Soul Sucker,00001545,Common,Song of the Chain,2,,Glitch,Fabled,Surge,"Whenever an enemy gets deinitialised, fully heal Soul Sucker",4
+Speedrunner,00000079,Uncommon,Sentinels of Eternity,4,,Glitch,Legion,,"At the start of every turn, stagger the strongest Glitch on the battlefield",4
+Spirit Avenger,00000383,Epic,Curators Maxima,3,,Glitch,Shaman,Regenerate,Spirit Avenger’s power is equal to the number of allies that have died,4
+Tankman,00000058,Rare,Adamant Hands,1,,Glitch,Mecha,Regenerate,"For every 2 damage Tank Man heals, give Tank Man +1/+0",4
+The Divine Enthraller,00001502,Legendary,Guardians of the Source,4,,Glitch,Purifier,Predictive Strike,"Whenever The Devine Enthralled kills an enemy, you may pay that Glitch’s cost to recruit and fully heal them",4
+The Resurrector,00000158,Legendary,Curators Maxima,1,,Glitch,Shaman,,"Whenever an ally dies, you may pay that ally’s energy cost to initialize the. Give that ally +1/+0 until end of turn",4
+The Wrecking Kid,00000154,Legendary,Adamant Hands,3,The Aggravator,Glitch,Mecha,Regenerate,All damage dealt by The Wrecking Kid is doubled,4
+Tideshifter,00000616,Rare,Song of the Chain,2,,Glitch,Magus,,4 energy: All Software costs 1 energy until end of turn,4
+Tranquil Oracle,00000084,Epic,Guardians of the Source,4,,Glitch,Purifier,,"When Tranquil Oracle has witnessed 2 enemies being recruited, Tranquil Oracle transforms into Infernal Cleanser",4
+Trash Legionary,00000048,Epic,Adamant Hands,5,,Glitch,Scavenger,,"Whenever Trash Legionary attacks, give all enemies -1/-0 until end of turn",4
+Warbringer's Visage,00000356,Rare,,3,,Software,Installation Required,,Give all allies +4/+0. Sacrifice affected Glitches at the end of turn,4
+Wicked Brew,00000020,Common,,4,,Software,Plug 'n' Play,,Kill target Glitch,4
+Big Mouth,00000138,Uncommon,Adamant Hands,5,,Glitch,Scavenger,,"Big Mouth’s power is reduced by X, where X is all enemies collective power",5
+Headmaster Hackenstack,00001546,Epic,Song of the Chain,3,,Glitch,Magus,,All your Software cost one energy less,5
+Master Hacker,00000075,Uncommon,Sentinels of Eternity,4,,Glitch,Legion,,"Whenever Master Hacker attacks, stagger the strongest enemy",5
+Overthrower,00000636,Legendary,Adamant Hands,2,,Glitch,Mecha,Regenerate,"When Overthrower has witnessed 10 damage being dealt to allies in one turn collectively, Overthrower transforms into a 12/12 with Overflow",5
+Rainy Day Empress,00000025,Uncommon,Sentinels of Eternity,1,Samurai Infiltrator,Glitch,Aristocrat,,Sacrifice 2 allies in order to initialize Rainy Day Empress. Give Rainy Day Empress the talents of the sacrificed Glitches,5
+Saint Requiem,00000012,Common,Guardians of the Source,3,,Glitch,Purifier,Overflow,Sacrifice 2 allies in order to play Saint Requiem,5
+Spirit Forager,00000294,Uncommon,Curators Maxima,1,,Glitch,Shaman,,"Whenever an ally dies, draw a card",5
+Skull Pilot,00000078,Uncommon,Adamant Hands,4,Rusting monstrosity,Glitch,Mecha,Overflow,"At the end of each turn, deal 5 damage to SkullPilot",6
+The Torturess,00001548,Legendary,Song of the Chain,5,,Glitch,Magus,,X energy: Activate the last Software you have activated. X is that Software’s cost,6
+Witchdoctor's Trade,00000389,Epic,,5,,Software,Installation Required,,Sacrifice all allies except for target ally. Deal their power as damage to another target,6
+Beserker Bot,00000060,Uncommon,Adamant Hands,3,,Glitch,Mecha,"Surge,Overflow",,7
+Fire Fae,00000046,Common,Curators Maxima,5,,Glitch,Elemental,,Fire Fae’s cost is reduced by 1 for every ally on the battleground,7
+Justice Bringer,00001509,Uncommon,Guardians of the Source,5,,Glitch,Purifier,"Regenerate,Overflow",,7
+Chi Hammer,00000390,Uncommon,,3,,Software,Plug 'n' Play,,Give every ally +1/+1 for every other ally on the battleground until end of turn,8
+Forest Clearing,00000168,Epic,,5,,Software,Installation Required,,Draw 3 cards. This costs 1 less for every ally on the battlefield,8

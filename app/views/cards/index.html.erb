@@ -4,7 +4,9 @@
 <h4>Syndicates</h4>
 <ul>
     <% @syndicates.each do |syndicate| %>
-        <li><%= link_to syndicate, root_path(syndicate: syndicate) %></li>
+        <% unless syndicate == nil %>   
+            <li><%= link_to syndicate, root_path(syndicate: syndicate) %></li>
+        <% end %>
     <% end %>
 </ul>
 
@@ -38,7 +40,7 @@
 
 <h4>Talents</h4>
 <ul>
-    <% @talents.each do |talent| %>
+    <% ["Aggressor", "Bit Thirsty", "Contagious", "Extraction", "Overflow", "Predictive Strike", "Protector", "Regenerate", "Surge", "Troll"].each do |talent| %>
         <li><%= link_to talent, root_path(talent: talent) %></li>
     <% end %>
 </ul>
