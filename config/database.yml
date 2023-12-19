@@ -80,5 +80,5 @@ test:
 production:
   <<: *default
   database: tlg_production
-  username: tlg
-  password: <%= ENV["TLG_DATABASE_PASSWORD"] %>
+  username: deploy
+  
