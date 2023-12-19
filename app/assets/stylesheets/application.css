@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.filter-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
