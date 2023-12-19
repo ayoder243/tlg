@@ -22,7 +22,7 @@ CSV.foreach(Rails.root.join('/home/parallels/odin/tlg/db/tlg-cards.csv'), header
         type_of_card: card["type_of_card"],
         subtype: card["subtype"],
         talents: card["talents"],
-        ability: card["ability"],
+        ability: card["Ability"],
         energy_cost: card["energy_cost"]
     } )
 end

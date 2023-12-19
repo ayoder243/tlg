@@ -18,4 +18,8 @@ class CardsController < ApplicationController
         @cards = @cards.filter_by_talents(params[:talent]) if params[:talent].present?
         @cards = @cards.filter_by_energy_cost(params[:energy_cost]) if params[:energy_cost].present?
     end
+
+    def show
+        @card = Card.find(params[:id])
+    end
 end

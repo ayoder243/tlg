@@ -1,0 +1,28 @@
+<h1><%= @card.name %></h1>
+<div class="card-profile">
+<img src="https://firebasestorage.googleapis.com/v0/b/tlg-live.appspot.com/o/renderedcards%2F<%=@card.bc_id%>_classic.png?alt=media&token=fb333870-224d-4b9b-b383-bc9b6f9a3474">
+<div class="card-info">
+<p>Type: <%= @card.type_of_card %></p>
+<p>Rarity: <%= @card.rarity %></p>
+<% unless @card.syndicate == nil %>
+    <p>Syndicate: <%= @card.syndicate %></p>
+<% end %>
+<p>Subtype: <%= @card.subtype %></p>
+<p>Energy Cost: <%= @card.energy_cost %></p>
+<% unless @card.talents == nil %>
+    <p>Talents:</p>
+    <ul>
+        <% @card.talents.split(',').each do |talent| %>
+            <li><%= talent %></li>
+        <% end %>
+    </ul>
+<% end %>
+<% unless @card.ability == nil %>
+    <p>Ability: <%= @card.ability %>
+<% end %>
+<p>Drop: <%= @card.drop %></p>
+<% unless @card.alt_name == nil %>
+<p>Formerly Known As: <%= @card.alt_name %></p>
+<% end %>
+</div>
+</div>

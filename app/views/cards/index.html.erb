@@ -67,6 +67,6 @@
 </div>
 <ul>
     <% @cards.each do |card| %>
-        <li><%= card.name %></li>
+        <li><%= link_to card.name, card_path(card) %></li>
     <% end %>
 </ul>
