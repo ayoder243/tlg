@@ -13,6 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+.container {
+    display: flex;
+}
+
+ .filters {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: vw;
+ }
+
 .filter-box {
     display: flex;
     flex-direction: column;
